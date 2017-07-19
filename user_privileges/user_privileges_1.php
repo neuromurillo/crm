@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'luismurillo','is_admin'=>'on','user_password'=>'$1$lu$eIN7edsDxpXiGnCYsR4wQ.','confirm_password'=>'$1$lu$eIN7edsDxpXiGnCYsR4wQ.','first_name'=>'Luis Manuel','last_name'=>'Murillo-Bonilla','roleid'=>'H2','email1'=>'luismurillo@ipao.com.mx','status'=>'Active','activity_view'=>'This Week','lead_view'=>'Today','hour_format'=>'24','end_hour'=>'23:00','start_hour'=>'07:00','title'=>'Director','phone_work'=>'3338132033','department'=>'Neurociencias','phone_mobile'=>'3338085584','reports_to_id'=>'','phone_other'=>'','email2'=>'luismurillo@medicinaclinica.org','phone_fax'=>'3338132033','secondaryemail'=>'luismurillobonilla@hotmail.com','phone_home'=>'','date_format'=>'dd-mm-yyyy','signature'=>'Dr. Luis Manuel Murillo BonillanDirector General','description'=>'','address_street'=>'Tarascos 3432-6. Col. Monraz','address_city'=>'Guadalajara','address_state'=>'Jalisco','address_postalcode'=>'44670','address_country'=>'M&eacute;xico','accesskey'=>'3w02ufmmp5UN9Znp','time_zone'=>'America/Mexico_City','currency_id'=>'1','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>',','currency_symbol_placement'=>'$1.0','imagename'=>'yo.jpg','internal_mailer'=>'1','theme'=>'alphagrey','language'=>'es_es','reminder_interval'=>'1 Minute','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'1','dayoftheweek'=>'Monday','callduration'=>'5','othereventduration'=>'5','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'medium','defaulteventstatus'=>'Selecciona una Opci&oacute;n','defaultactivitytype'=>'Selecciona una Opci&oacute;n','hidecompletedevents'=>'0','is_owner'=>'1','currency_name'=>'Mexico, Pesos','currency_code'=>'MXN','currency_symbol'=>'&#36;','conv_rate'=>'1.00000','record_id'=>'','record_module'=>'','id'=>'1');
+
+?>
